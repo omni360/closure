@@ -1,0 +1,12 @@
+{
+  "name": "google-closure-library ",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/google/closure-library",
+  "version": "",
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.1.0+20160322235613"
+  },
+  "ambientDevDependencies": {
+    "node": "registry:dt/node#4.0.0+20160319033040"
+  }
+}
